@@ -1,112 +1,89 @@
-# 👋 Hi, I'm Tran Quang Thanh
+# 👋 Xin chào — mình là Tran Quang Thanh
 
 ```python
 developer = {
     "name": "Tran Quang Thanh",
-    "passion": "Building AI-powered solutions & Intelligent Agents",
+    "passion": "Xây dựng các giải pháp AI thông minh & Hệ thống tác nhân (Agents)",
     "focus": ["Agentic AI", "RAG Systems", "Multi-Agent Architectures", "Data Science"],
-    "learning": ["Advanced Agent Design", "LLM Fine-tuning", "Production ML Systems"]
+    "learning": ["Thiết kế Agent nâng cao", "Fine-tuning LLM", "Hệ thống ML production"]
 }
 ```
 
 ---
 
-## 🚀 What I Do
+## 🚀 Tóm tắt
 
-I'm a **growth-minded developer** passionate about creating intelligent, scalable solutions using cutting-edge AI technologies. With expertise in **agentic systems**, **machine learning**, and **full-stack development**, I build systems that bridge the gap between complex AI concepts and practical applications.
-
-### Core Competencies
-
-| Category | Technologies |
-|----------|---------------|
-| **🤖 AI/Agents** | Multi-Agent Systems · MCP · LLM Agents · RAG Pipelines · Claude · GPT · Gemini |
-| **📊 Data Science** | Python · Machine Learning · Statistical Analysis · Data Visualization |
-| **💻 Backend** | Python · API Development · Cloud Infrastructure · Deployment |
-| **🎨 Frontend** | JavaScript · HTML/CSS · Interactive UI Development |
-| **🔧 Tools & Frameworks** | Jupyter Notebooks · LangChain · Vector DBs · Docker · Git |
-| **📚 Methodologies** | Responsible AI · HITL (Human-in-the-Loop) · Guardrails · ML Evaluation |
+Mình là một nhà phát triển hướng tới tăng trưởng, đam mê xây dựng các hệ thống AI có khả năng mở rộng và chịu lỗi. Chuyên về hệ thống agent, pipeline RAG, và tích hợp các mô hình ngôn ngữ lớn vào sản phẩm thực tế.
 
 ---
 
-## 🎯 Featured Projects & Expertise
+## 🧠 Kỹ năng chính
 
-### 🤖 Agentic AI Systems
-- **Multi-Agent MCP Architecture** - Building sophisticated agent-to-agent communication systems
-- **RAG Pipeline Development** - Implementing retrieval-augmented generation for knowledge-intensive tasks
-- **Agentic Awesome Skills** - Curating and managing 2000+ reusable skills for agent orchestration
-- **Agent Safety & Guardrails** - Ensuring responsible AI deployment with HITL mechanisms
-
-### 📊 Data Science & ML
-- **Bank Marketing Analytics** - Predictive modeling and campaign optimization
-- **Data Science Projects** - End-to-end ML workflows from data exploration to deployment
-- **ML Evaluation Frameworks** - Building robust evaluation and decision systems
-
-### 💼 Full-Stack Development
-- **AI Smart Bus Stop Assistant** - IoT-integrated AI application with JavaScript frontend
-- **AI Router Solutions** - Connecting multiple LLM providers with intelligent fallback mechanisms
-- **Cloud Infrastructure & Deployment** - Containerization and deployment best practices
+| Hạng mục | Công nghệ |
+|---|---|
+| **🤖 Agent & AI** | Multi-Agent Systems · Agentic design · MCP · LLM Agents · RAG Pipelines · Claude · GPT · Gemini |
+| **📊 Data Science & ML** | Python · Scikit-learn · Pandas · NumPy · MLOps cơ bản · Đánh giá mô hình |
+| **💻 Backend & Infra** | Python · FastAPI · RESTful API · Docker · Kubernetes · Cloud (basic) |
+| **🎨 Frontend & UX** | JavaScript · React cơ bản · HTML/CSS |
+| **🔧 Công cụ** | LangChain · Vector DBs · Jupyter · Git · CI/CD |
+| **📚 Quy trình & Đạo đức** | Responsible AI · HITL · Guardrails · Evaluation frameworks |
 
 ---
 
-## 📈 My Development Journey
+## 🎯 Dự án tiêu biểu
 
-Actively participating in **VinUni AI20k Cohort 2** - a comprehensive AI bootcamp covering:
-- Day 08-10: RAG Pipeline Development & Advanced Architectures
-- Day 11: Guardrails, HITL & Responsible AI
-- Day 13-26: Advanced project work in agentic systems
-- Full-stack integration from local inference to cloud deployment
+- **agentic-awesome-skills** — Danh mục năng lực/skill cho agent (tái sử dụng)  
+- **Batch02-Day9_Multi-Agent_MCP-A2A** — Nghiên cứu & triển khai kiến trúc multi-agent  
+- **Day08_RAG_pipeline_cohort2** — Cài đặt pipeline RAG cho truy xuất kiến thức  
+- **Day-11-Guardrails-HITL-Responsible-AI** — Thực hành guardrails & human-in-the-loop  
+- **AI_Smart_Bus_Stop_Assistant** — Ứng dụng IoT + AI cho trạm xe buýt thông minh  
+- **Bank-Marketing** — Bài toán dự đoán & tối ưu chiến dịch marketing
 
----
-
-## 💡 Core Values & Approach
-
-✅ **Continuous Learning** - Always exploring emerging AI patterns and best practices  
-✅ **Production-Ready Code** - Building systems designed for scalability and reliability  
-✅ **Responsible AI** - Prioritizing safety, ethics, and human oversight in automation  
-✅ **Collaboration** - Sharing knowledge and learning from the community  
-✅ **Innovation** - Pushing boundaries of what's possible with AI technology  
+Xem chi tiết các repo ở phần "Repositories" của trang GitHub hoặc các liên kết phía dưới.
 
 ---
 
-## 📫 Connect & Collaborate
+## 📈 Hành trình phát triển
 
-I'm interested in:
-- 🤝 Collaborating on AI/Agent projects
-- 💬 Discussing agentic system architectures
-- 📚 Contributing to open-source AI tools
-- 🎓 Knowledge sharing on responsible AI practices
-
-**Let's build something amazing together!** Feel free to reach out or check out my repositories below.
+Tham gia cohort VinUni AI20k (Cohort 2): tập trung vào RAG, agentic architectures, guardrails, HITL và tích hợp end-to-end từ inference cục bộ đến deploy trên cloud.
 
 ---
 
-## 📊 Quick Stats
+## 💡 Giá trị làm việc
+
+- Liên tục học hỏi và cập nhật công nghệ mới  
+- Viết mã hướng production, dễ bảo trì  
+- Đặt an toàn và đạo đức AI lên hàng đầu  
+- Hợp tác và chia sẻ kiến thức cộng đồng  
+
+---
+
+## 📫 Muốn hợp tác?
+
+Mình quan tâm đến:  
+- 🤝 Hợp tác phát triển hệ thống Agent/AI  
+- 💬 Trao đổi kiến trúc hệ thống agent  
+- 📚 Cộng tác mã nguồn mở & chia sẻ best-practices về Responsible AI
+
+Bạn có thể xem profile GitHub và gửi issue / pull request vào các repo mình đang làm: https://github.com/tranquangthanh3062004
+
+---
+
+## 🔗 Repositories nổi bật
+
+- https://github.com/tranquangthanh3062004/agentic-awesome-skills
+- https://github.com/tranquangthanh3062004/Batch02-Day9_Multi-Agent_MCP-A2A
+- https://github.com/tranquangthanh3062004/Day08_RAG_pipeline_cohort2
+- https://github.com/tranquangthanh3062004/Day-11-Guardrails-HITL-Responsible-AI
+- https://github.com/tranquangthanh3062004/AI_Smart_Bus_Stop_Assistant
+- https://github.com/tranquangthanh3062004/Bank-Marketing
+
+---
+
+## 📊 Thống kê GitHub
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tranquangthanh3062004&show_icons=true&theme=dark&count_private=true)
 
 ---
 
-## 🔗 Featured Repositories
-
-### Recent Focus Areas
-- **[agentic-awesome-skills](https://github.com/tranquangthanh3062004/agentic-awesome-skills)** - Agent capability catalog
-- **[Batch02-Day9_Multi-Agent_MCP-A2A](https://github.com/tranquangthanh3062004/Batch02-Day9_Multi-Agent_MCP-A2A)** - Advanced multi-agent systems
-- **[Day08_RAG_pipeline_cohort2](https://github.com/tranquangthanh3062004/Day08_RAG_pipeline_cohort2)** - RAG pipeline implementation
-- **[Day-11-Guardrails-HITL-Responsible-AI](https://github.com/tranquangthanh3062004/Day-11-Guardrails-HITL-Responsible-AI)** - Safe AI practices
-- **[AI_Smart_Bus_Stop_Assistant](https://github.com/tranquangthanh3062004/AI_Smart_Bus_Stop_Assistant)** - Full-stack AI application
-- **[Bank-Marketing](https://github.com/tranquangthanh3062004/Bank-Marketing)** - ML predictive modeling
-
----
-
-## 🎓 Always Learning
-
-My technical roadmap includes:
-- 📚 Advanced LLM fine-tuning & optimization
-- 🔬 State-of-the-art evaluation frameworks
-- 🌐 Distributed agent systems & orchestration
-- 💾 Production ML infrastructure
-- 🔐 AI security & robustness
-
----
-
-*Last updated: September 2026* | [View all repositories](https://github.com/tranquangthanh3062004?tab=repositories)
+*Cập nhật lần cuối: 18 tháng 10, 2026* | [Xem tất cả repositories](https://github.com/tranquangthanh3062004?tab=repositories)
